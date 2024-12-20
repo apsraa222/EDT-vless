@@ -9,6 +9,6 @@ routes = [
 ]
 workers_dev = false
 [vars]
-UUID = "%uuid%"
-PROXYIP = "%proxyip%"
+UUID = "603ff47e-9ee6-4097-9fc8-1310c73d4e05"
+PROXYIP = "104.248.145.216"
 DNS_RESOLVER_URL = "https://dns.cloudflare.com/dns-query"
